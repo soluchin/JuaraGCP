@@ -1,6 +1,7 @@
 # Ingesting Data Into The Cloud
 You will learn how to use a bash script to download selected data, which providess historic information about internal flights in the United States.
 
+### Open Cloud Shell
 > **Cloud Shell**
 > Access: click Activate Cloud Shell button 
 
